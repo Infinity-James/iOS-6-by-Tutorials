@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>achievementID</key>
+		<string>com.andbeyond.jamesvalaitis.MonkeyJump.NoviceRunner</string>
+		<key>distanceToRun</key>
+		<integer>200</integer>
+	</dict>
+	<dict>
+		<key>achievementID</key>
+		<string>com.andbeyond.jamesvalaitis.MonkeyJump.Athlete</string>
+		<key>distanceToRun</key>
+		<integer>1000</integer>
+	</dict>
+	<dict>
+		<key>achievementID</key>
+		<string>com.andbeyond.jamesvalaitis.MonkeyJump.2000Metres</string>
+		<key>distanceToRun</key>
+		<integer>2000</integer>
+	</dict>
+</array>
+</plist>

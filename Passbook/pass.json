@@ -1,0 +1,65 @@
+{
+	"formatVersion"			: 1,
+	"passTypeIdentifier"	: "pass.com.andbeyond.jamesvalaitis.couponfreehug",
+	"serialNumber"			: "001",
+	"teamIdentifier"		: "ZFDEX86BMA",
+	"organizationName"		: "Free Hugs LLC",
+	"description"			: "Coupon for 1 Free Hug",
+	"logoText"				: "Free Hugs LLC",
+	"foregroundColor"		: "rgb(255, 255, 255)",
+	"backgroundColor"		: "rgb(135, 129, 189)",
+	"labelColor"			: "rgb(45, 54, 129)",
+	"barcode"				:
+	{
+		"message"			: "All you need is love",
+		"format"			: "PKBarcodeFormatPDF417",
+		"messageEncoding"	: "iso-8859-1"
+	},
+	"coupon"				:
+	{
+		"primaryFields"		:
+		[
+			{
+				"key"		: "offer",
+				"label"		: "for you",
+				"value"		: "Free hug"
+			}
+		],
+		"secondaryFields"	:
+		[
+			{
+				"key"		: "expires",
+				"label"		: "Valid for",
+				"value"		: "Lifetime"
+			}
+		],
+		"auxiliaryFields"	:
+		[
+			{
+				"key"		: "date",
+				"label"		: "Promo starts on",
+				"dateStyle"	: "PKDateStyleMedium",
+				"timeStyle"	: "PKDateStyleNone",
+				"value"		: "2013-01-11T00:00Z"
+			}
+		],
+		"backFields"		:
+		[
+			{
+				"key"		: "extras",
+				"label"		: "Extras",
+				"value"		: "Your friends receive 50% off price"
+			},
+			{
+				"key"		: "phone",
+				"label"		: "For more info",
+				"value"		: "0800-69698008"
+			},
+			{
+				"key"		: "terms",
+				"label"		: "TERMS AND CONDITIONS",
+				"value"		: "Free hugs last 19 seconds and must be claimed on your birthday. Bring some form of identification."
+			}
+		]
+	}
+}
