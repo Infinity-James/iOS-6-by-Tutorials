@@ -1,0 +1,300 @@
+{
+    "emblem": {
+        "icon": 132,
+        "backgroundColor": "ff9b00a6",
+        "iconColor": "ffb1b8b1",
+        "border": 1,
+        "borderColor": "ffffffff"
+    },
+    "side": 0,
+    "lastModified": 1341259894000,
+    "name": "Dream Catchers",
+    "battlegroup": "Emberstorm",
+    "realm": "Borean Tundra",
+    "achievementPoints": 1655,
+    "members": [
+        {
+            "rank": 9,
+            "character": {
+                "thumbnail": "borean-tundra/165/31098789-avatar.jpg",
+                "class": 8,
+                "race": 7,
+                "name": "Greatdane",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 2930,
+                "gender": 0,
+                "level": 84
+            }
+        },        
+        {
+            "rank": 7,
+            "character": {
+                "thumbnail": "borean-tundra/231/30486247-avatar.jpg",
+                "class": 8,
+                "race": 1,
+                "name": "Mirai",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 1220,
+                "gender": 1,
+                "level": 85
+            }
+        },
+        {
+            "rank": 8,
+            "character": {
+                "thumbnail": "borean-tundra/35/30883107-avatar.jpg",
+                "class": 2,
+                "race": 3,
+                "name": "Desplaines",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 0,
+                "gender": 0,
+                "level": 80
+            }
+        },        
+        {
+            "rank": 9,
+            "character": {
+                "thumbnail": "borean-tundra/122/39636858-avatar.jpg",
+                "class": 5,
+                "race": 3,
+                "name": "Bliant",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 0,
+                "gender": 0,
+                "level": 10
+            }
+        },
+        {
+            "rank": 6,
+            "character": {
+                "thumbnail": "borean-tundra/197/34355909-avatar.jpg",
+                "class": 4,
+                "race": 1,
+                "name": "Britaxis",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 4040,
+                "gender": 0,
+                "level": 85
+            }
+        },                
+        {
+            "rank": 9,
+            "character": {
+                "thumbnail": "borean-tundra/49/30499377-avatar.jpg",
+                "class": 2,
+                "race": 1,
+                "name": "Jonan",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 3625,
+                "gender": 0,
+                "level": 85
+            }
+        },
+        {
+            "rank": 8,
+            "character": {
+                "thumbnail": "borean-tundra/32/30602016-avatar.jpg",
+                "class": 11,
+                "race": 4,
+                "name": "Everybody",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 2160,
+                "gender": 1,
+                "level": 83
+            }
+        },
+        {
+            "rank": 8,
+            "character": {
+                "thumbnail": "borean-tundra/119/30620535-avatar.jpg",
+                "class": 11,
+                "race": 4,
+                "name": "Ivymoon",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 2485,
+                "gender": 1,
+                "level": 85
+            }
+        },
+        {
+            "rank": 7,
+            "character": {
+                "thumbnail": "borean-tundra/83/30647123-avatar.jpg",
+                "class": 11,
+                "race": 4,
+                "name": "Elassa",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 11660,
+                "gender": 1,
+                "level": 85
+            }
+        },
+        {
+            "rank": 8,
+            "character": {
+                "thumbnail": "borean-tundra/252/30682108-avatar.jpg",
+                "class": 3,
+                "race": 4,
+                "name": "Bluekat",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 450,
+                "gender": 1,
+                "level": 39
+            }
+        },
+        {
+            "rank": 6,
+            "character": {
+                "thumbnail": "borean-tundra/142/35991694-avatar.jpg",
+                "class": 4,
+                "race": 1,
+                "name": "Josephus",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 3985,
+                "gender": 0,
+                "level": 85
+            }
+        },        
+        {
+            "rank": 7,
+            "character": {
+                "thumbnail": "borean-tundra/48/30761520-avatar.jpg",
+                "class": 1,
+                "race": 3,
+                "name": "Torabargim",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 4235,
+                "gender": 0,
+                "level": 85
+            }
+        },
+        {
+            "rank": 7,
+            "character": {
+                "thumbnail": "borean-tundra/69/30769221-avatar.jpg",
+                "class": 3,
+                "race": 3,
+                "name": "Bulldogg",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 2530,
+                "gender": 0,
+                "level": 85
+            }
+        },
+        {
+            "rank": 9,
+            "character": {
+                "thumbnail": "borean-tundra/96/31245920-avatar.jpg",
+                "class": 2,
+                "race": 1,
+                "name": "Verikus",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 3880,
+                "gender": 0,
+                "level": 85
+            }
+        },
+        {
+            "rank": 2,
+            "character": {
+                "thumbnail": "borean-tundra/160/43406496-avatar.jpg",
+                "class": 9,
+                "race": 1,
+                "name": "Alad",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 3545,
+                "gender": 0,
+                "level": 85
+            }
+        },
+        {
+            "rank": 1,
+            "character": {
+                "thumbnail": "borean-tundra/1/43408897-avatar.jpg",
+                "class": 7,
+                "race": 11,
+                "name": "Nerii",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 4225,
+                "gender": 1,
+                "level": 85
+            }
+        },
+        {
+            "rank": 9,
+            "character": {
+                "thumbnail": "borean-tundra/127/43626879-avatar.jpg",
+                "class": 6,
+                "race": 7,
+                "name": "Lixiu",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 2010,
+                "gender": 1,
+                "level": 84
+            }
+        },
+		{
+            "rank": 6,
+            "character": {
+                "thumbnail": "borean-tundra/199/32793031-avatar.jpg",
+                "class": 4,
+                "race": 4,
+                "name": "Lailet",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 6785,
+                "gender": 1,
+                "level": 85
+            }
+        },
+        {
+            "rank": 9,
+            "character": {
+                "thumbnail": "borean-tundra/46/37556526-avatar.jpg",
+                "class": 5,
+                "race": 1,
+                "name": "Mercpriest",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 1885,
+                "gender": 0,
+                "level": 85
+            }
+        },
+        {
+            "rank": 9,
+            "character": {
+                "thumbnail": "borean-tundra/206/65139150-avatar.jpg",
+                "class": 5,
+                "race": 3,
+                "name": "Monk",
+                "battlegroup": "Emberstorm",
+                "realm": "Borean Tundra",
+                "achievementPoints": 690,
+                "gender": 0,
+                "level": 47
+            }
+        }
+
+        
+    ],
+    "level": 25
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Zombie</string>
+	<key>incorrectSound</key>
+	<string>zombieIncorrect.wav</string>
+	<key>correctSound</key>
+	<string>zombieCorrect.wav</string>
+	<key>winSound</key>
+	<string>zombieWin.wav</string>
+	<key>loseSound</key>
+	<string>zombieLose.wav</string>
+	<key>images</key>
+	<array>
+		<string>zombie1.png</string>
+		<string>zombie2.png</string>
+		<string>zombie3.png</string>
+		<string>zombie4.png</string>
+		<string>zombie5.png</string>
+		<string>zombie6.png</string>
+		<string>zombie7.png</string>
+		<string>zombie8.png</string>
+		<string>zombie9.png</string>
+		<string>zombie10.png</string>
+		<string>zombie11.png</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Robot</string>
+	<key>incorrectSound</key>
+	<string>robotIncorrect.wav</string>
+	<key>correctSound</key>
+	<string>robotCorrect.wav</string>
+	<key>winSound</key>
+	<string>robotWin.wav</string>
+	<key>loseSound</key>
+	<string>robotLose.wav</string>
+	<key>images</key>
+	<array>
+		<string>robot1.png</string>
+		<string>robot2.png</string>
+		<string>robot3.png</string>
+		<string>robot4.png</string>
+		<string>robot5.png</string>
+		<string>robot6.png</string>
+		<string>robot7.png</string>
+		<string>robot8.png</string>
+		<string>robot9.png</string>
+	</array>
+</dict>
+</plist>

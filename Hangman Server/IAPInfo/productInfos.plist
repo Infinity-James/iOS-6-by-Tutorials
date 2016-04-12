@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.andbeyond.jamesvalaitis.hangman.hardwords</string>
+		<key>icon</key>
+		<string>icon_hardwords.png</string>
+		<key>consumable</key>
+		<false/>
+		<key>consumableIdentifier</key>
+		<string></string>
+		<key>consumableAmount</key>
+		<integer>0</integer>
+		<key>bundleDir</key>
+		<string>HardWords</string>
+	</dict>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.andbeyond.jamesvalaitis.hangman.ioswords</string>
+		<key>icon</key>
+		<string>icon_iOSwords.png</string>
+		<key>consumable</key>
+		<false/>
+		<key>consumableIdentifier</key>
+		<string></string>
+		<key>consumableAmount</key>
+		<integer>0</integer>
+		<key>bundleDir</key>
+		<string>iOSWords</string>
+	</dict>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.andbeyond.jamesvalaitis.hangman.tenhints</string>
+		<key>icon</key>
+		<string>icon_10hints.png</string>
+		<key>consumable</key>
+		<true/>
+		<key>consumableIdentifier</key>
+		<string>com.andbeyond.jamesvalaitis.hangman.tenhints</string>
+		<key>consumableAmount</key>
+		<integer>10</integer>
+		<key>bundleDir</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>productIdentifier</key>
+		<string>com.andbeyond.jamesvalaitis.hangman.onehundredhints</string>
+		<key>icon</key>
+		<string>icon_100hints.png</string>
+		<key>consumable</key>
+		<true/>
+		<key>consumableIdentifier</key>
+		<string>com.andbeyond.jamesvalaitis.hangman.onehundredhints</string>
+		<key>consumableAmount</key>
+		<integer>100</integer>
+		<key>bundleDir</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

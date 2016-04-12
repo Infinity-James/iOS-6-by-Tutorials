@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Stickman</string>
+	<key>incorrectSound</key>
+	<string>stickmanIncorrect.wav</string>
+	<key>correctSound</key>
+	<string>stickmanCorrect.wav</string>
+	<key>winSound</key>
+	<string>stickmanWin.wav</string>
+	<key>loseSound</key>
+	<string>stickmanLose.wav</string>
+	<key>images</key>
+	<array>
+		<string>stickman1.png</string>
+		<string>stickman2.png</string>
+		<string>stickman3.png</string>
+		<string>stickman4.png</string>
+		<string>stickman5.png</string>
+		<string>stickman6.png</string>
+	</array>
+</dict>
+</plist>

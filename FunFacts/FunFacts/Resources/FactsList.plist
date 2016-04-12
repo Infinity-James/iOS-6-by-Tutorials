@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Ray Wenderlich</string>
+		<key>twitter</key>
+		<string>@rwenderlich</string>
+		<key>image</key>
+		<string>RayWenderlich.png</string>
+		<key>facts</key>
+		<array>
+			<string>In &apos;03 @rwenderlich went running with the bulls. One knocked him over but @bc_phillips saved him</string>
+			<string>One day @rwenderlich made this popular video: youtube.com/watch?v=9jt6OenH6Z8</string>
+			<string>When @rwenderlich was a kid he pretended to be a hero named RaZe. His company is razeware.com</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Matt Galloway</string>
+		<key>twitter</key>
+		<string>@mattjgalloway</string>
+		<key>image</key>
+		<string>MattGalloway.jpg</string>
+		<key>facts</key>
+		<array>
+			<string>@mattjgalloway lives in London where he spends most of his time at work on iOS projects</string>
+			<string>@mattjgalloway created an app called @BeerMap which helps you find great beer and pubs</string>
+			<string>@mattjgalloway studied Electrical &amp; Information Engineering at the University of Cambridge</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Brandon Trebitowski</string>
+		<key>twitter</key>
+		<string>@brandontreb</string>
+		<key>image</key>
+		<string>BrandonTrebitowski.jpg</string>
+		<key>facts</key>
+		<array>
+			<string> Not many people know this about him, but @brandontreb is incredibly good a raffles</string>
+			<string>@brandontreb first game ever was an animal racing game where the animals raced across the screen</string>
+			<string>@brandontreb started writing tutorials on http://icodeblog.com 6 months before he got his first iPhone</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Marin Todorov</string>
+		<key>twitter</key>
+		<string>@brandontreb</string>
+		<key>image</key>
+		<string>MarinTodorov.jpg</string>
+		<key>facts</key>
+		<array>
+			<string>Marin loves cartoons and his first dream job was being an animator</string>
+			<string>Marin started programming exactly 20 years ago on an Apple ][ clone computer</string>
+			<string>Marin used to record with a band called &quot;The Werewolves&quot;, the members of which never met in person</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jacob Gundersen</string>
+		<key>twitter</key>
+		<string>@fattjake</string>
+		<key>image</key>
+		<string>JacobGundersen.jpg</string>
+		<key>facts</key>
+		<array>
+			<string>@fattjake loves bad scifi movies, giant mosquitos, zombies and ancient CGI creatures</string>
+			<string>@fattjake wanted to be a stand up comedian when he was a kid (still dreams of it actually)</string>
+			<string>@fattjake lived in France for several years. Met a man who introduced him to his wife. Feared for his life</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fahim Farook</string>
+		<key>twitter</key>
+		<string>@FahimFarook</string>
+		<key>image</key>
+		<string>FahimFarook.jpg</string>
+		<key>facts</key>
+		<array>
+			<string>@FahimFarook can read five different languages, each having its own distinct alphabet</string>
+			<string>@FahimFarook has lived in five countries for at least five months.</string>
+			<string>The first computer that @FahimFarook bought had 5MB of RAM.</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Felipe Laso</string>
+		<key>twitter</key>
+		<string>@airjordan12345</string>
+		<key>image</key>
+		<string>FelipeLaso.jpg</string>
+		<key>facts</key>
+		<array>
+			<string>@airjordan12345 loves cooking, reading programming books, basketball and video games</string>
+			<string>@airjordan12345&apos;s favorite color is pink (real men wear pink! haha)</string>
+			<string>@airjordan12345 lived in Miami for 2 years. Here he learned english and got his first programming book</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Adam Burkpile</string>
+		<key>twitter</key>
+		<string>@acburk</string>
+		<key>image</key>
+		<string>AdamBurkpile.png</string>
+		<key>facts</key>
+		<array>
+			<string>@acburk is known to have a crazy sleep schedule and fall asleep in strange places http://flic.kr/p/cELKco</string>
+			<string>@acburk misses 3D Doritos badly. Do you know where he can get any?</string>
+			<string>@acburk is a quiet person. He&apos;s been jokingly told he&apos;s harder to talk to than a kid with Aspergers</string>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bradley Phillips</string>
+		<key>twitter</key>
+		<string>@bcphillips</string>
+		<key>image</key>
+		<string>BradleyPhillips.png</string>
+		<key>facts</key>
+		<array>
+			<string>@bcphillips used to manage the research department of a private investigative agency in Manhattan</string>
+			<string>@bc_phillips and @rwenderlich got lost in the Moroccan desert</string>
+			<string>Instead of using a power mower, @bc_phillips mows the grass with a scythe</string>
+		</array>
+	</dict>
+</array>
+</plist>

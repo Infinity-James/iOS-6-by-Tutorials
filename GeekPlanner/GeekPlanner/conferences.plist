@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>WWDC 2012</string>
+		<key>StartDate</key>
+		<date>2012-06-30T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2012-07-04T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>wwdc.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mac IT</string>
+		<key>StartDate</key>
+		<date>2013-01-30T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2013-02-01T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>macit.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>360 Mac dev</string>
+		<key>StartDate</key>
+		<date>2012-06-27T16:25:24Z</date>
+		<key>EndDate</key>
+		<date>2012-06-27T16:25:33Z</date>
+		<key>ImageName</key>
+		<string>macdev.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cocoa conf</string>
+		<key>StartDate</key>
+		<date>2012-06-27T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2012-06-29T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>cocoaconf.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>360 iDev</string>
+		<key>StartDate</key>
+		<date>2012-09-08T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2012-09-11T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>360idev.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>SXSW</string>
+		<key>StartDate</key>
+		<date>2013-03-07T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2013-03-16T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>sxsw.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>GDC</string>
+		<key>StartDate</key>
+		<date>2013-03-24T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2013-03-28T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>gdc.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Swipe conference</string>
+		<key>StartDate</key>
+		<date>2012-09-04T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2012-09-06T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>swipe-conference.png</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Objective cologne</string>
+		<key>StartDate</key>
+		<date>2012-09-10T18:30:00Z</date>
+		<key>EndDate</key>
+		<date>2012-09-11T18:30:00Z</date>
+		<key>ImageName</key>
+		<string>objective-cologn.png</string>
+	</dict>
+</array>
+</plist>

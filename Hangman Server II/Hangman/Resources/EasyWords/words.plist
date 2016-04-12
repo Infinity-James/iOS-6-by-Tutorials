@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>name</key>
+    <string>Easy Words</string>
+    <key>words</key>
+    <array>
+        <string>actually</string>
+        <string>addition</string>
+        <string>although</string>
+        <string>american</string>
+        <string>anything</string>
+        <string>building</string>
+        <string>business</string>
+        <string>children</string>
+        <string>complete</string>
+        <string>consider</string>
+        <string>continue</string>
+        <string>decision</string>
+        <string>directly</string>
+        <string>district</string>
+        <string>economic</string>
+        <string>evidence</string>
+        <string>expected</string>
+        <string>followed</string>
+        <string>happened</string>
+        <string>increase</string>
+        <string>industry</string>
+        <string>interest</string>
+        <string>involved</string>
+        <string>national</string>
+        <string>organize</string>
+        <string>personal</string>
+        <string>planning</string>
+        <string>position</string>
+        <string>possible</string>
+        <string>pressure</string>
+        <string>probably</string>
+        <string>problems</string>
+        <string>programs</string>
+        <string>provided</string>
+        <string>question</string>
+        <string>received</string>
+        <string>religion</string>
+        <string>remember</string>
+        <string>required</string>
+        <string>services</string>
+        <string>southern</string>
+        <string>standard</string>
+        <string>strength</string>
+        <string>students</string>
+        <string>suddenly</string>
+        <string>thinking</string>
+        <string>together</string>
+        <string>training</string>
+    </array>
+</dict>
+</plist>

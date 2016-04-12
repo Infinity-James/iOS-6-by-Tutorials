@@ -1,0 +1,302 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C9066CF715965D3D00379283 /* victoria_line.json in Resources */ = {isa = PBXBuildFile; fileRef = C9066CF615965D3D00379283 /* victoria_line.json */; };
+		C9066D0015965FCB00379283 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9066CFF15965FCB00379283 /* CoreLocation.framework */; };
+		C94C638D15961F5F00EC7710 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94C638C15961F5F00EC7710 /* UIKit.framework */; };
+		C94C638F15961F5F00EC7710 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94C638E15961F5F00EC7710 /* Foundation.framework */; };
+		C94C639115961F5F00EC7710 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94C639015961F5F00EC7710 /* CoreGraphics.framework */; };
+		C94C639715961F5F00EC7710 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C94C639515961F5F00EC7710 /* InfoPlist.strings */; };
+		C94C639915961F6000EC7710 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C94C639815961F6000EC7710 /* main.m */; };
+		C94C639D15961F6000EC7710 /* RWAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C94C639C15961F6000EC7710 /* RWAppDelegate.m */; };
+		C94C63A015961F6000EC7710 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C94C639E15961F6000EC7710 /* MainStoryboard.storyboard */; };
+		C94C63A315961F6000EC7710 /* RWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C94C63A215961F6000EC7710 /* RWViewController.m */; };
+		C94C63AA15961F7800EC7710 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C94C63A915961F7800EC7710 /* MapKit.framework */; };
+		C9D82DC015A386E300EB217A /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9D82DBF15A386E300EB217A /* AddressBook.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C9066CF615965D3D00379283 /* victoria_line.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = victoria_line.json; sourceTree = "<group>"; };
+		C9066CFF15965FCB00379283 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		C94C638815961F5F00EC7710 /* RWMapping.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RWMapping.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C94C638C15961F5F00EC7710 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C94C638E15961F5F00EC7710 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C94C639015961F5F00EC7710 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C94C639415961F5F00EC7710 /* RWMapping-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RWMapping-Info.plist"; sourceTree = "<group>"; };
+		C94C639615961F5F00EC7710 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C94C639815961F6000EC7710 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C94C639A15961F6000EC7710 /* RWMapping-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RWMapping-Prefix.pch"; sourceTree = "<group>"; };
+		C94C639B15961F6000EC7710 /* RWAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RWAppDelegate.h; sourceTree = "<group>"; };
+		C94C639C15961F6000EC7710 /* RWAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RWAppDelegate.m; sourceTree = "<group>"; };
+		C94C639F15961F6000EC7710 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		C94C63A115961F6000EC7710 /* RWViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RWViewController.h; sourceTree = "<group>"; };
+		C94C63A215961F6000EC7710 /* RWViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RWViewController.m; sourceTree = "<group>"; };
+		C94C63A915961F7800EC7710 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		C9B9097F159740DE00B6A6B4 /* London.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = London.geojson; sourceTree = "<group>"; };
+		C9D82DBF15A386E300EB217A /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C94C638515961F5F00EC7710 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C9066D0015965FCB00379283 /* CoreLocation.framework in Frameworks */,
+				C94C63AA15961F7800EC7710 /* MapKit.framework in Frameworks */,
+				C94C638D15961F5F00EC7710 /* UIKit.framework in Frameworks */,
+				C94C638F15961F5F00EC7710 /* Foundation.framework in Frameworks */,
+				C94C639115961F5F00EC7710 /* CoreGraphics.framework in Frameworks */,
+				C9D82DC015A386E300EB217A /* AddressBook.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C94C637D15961F5F00EC7710 = {
+			isa = PBXGroup;
+			children = (
+				C94C639215961F5F00EC7710 /* RWMapping */,
+				C94C638B15961F5F00EC7710 /* Frameworks */,
+				C94C638915961F5F00EC7710 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C94C638915961F5F00EC7710 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C94C638815961F5F00EC7710 /* RWMapping.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C94C638B15961F5F00EC7710 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C94C638C15961F5F00EC7710 /* UIKit.framework */,
+				C94C638E15961F5F00EC7710 /* Foundation.framework */,
+				C94C639015961F5F00EC7710 /* CoreGraphics.framework */,
+				C94C63A915961F7800EC7710 /* MapKit.framework */,
+				C9066CFF15965FCB00379283 /* CoreLocation.framework */,
+				C9D82DBF15A386E300EB217A /* AddressBook.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C94C639215961F5F00EC7710 /* RWMapping */ = {
+			isa = PBXGroup;
+			children = (
+				C94C639B15961F6000EC7710 /* RWAppDelegate.h */,
+				C94C639C15961F6000EC7710 /* RWAppDelegate.m */,
+				C94C639E15961F6000EC7710 /* MainStoryboard.storyboard */,
+				C94C63A115961F6000EC7710 /* RWViewController.h */,
+				C94C63A215961F6000EC7710 /* RWViewController.m */,
+				C9066CF615965D3D00379283 /* victoria_line.json */,
+				C9B9097F159740DE00B6A6B4 /* London.geojson */,
+				C94C639315961F5F00EC7710 /* Supporting Files */,
+			);
+			path = RWMapping;
+			sourceTree = "<group>";
+		};
+		C94C639315961F5F00EC7710 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C94C639415961F5F00EC7710 /* RWMapping-Info.plist */,
+				C94C639515961F5F00EC7710 /* InfoPlist.strings */,
+				C94C639815961F6000EC7710 /* main.m */,
+				C94C639A15961F6000EC7710 /* RWMapping-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C94C638715961F5F00EC7710 /* RWMapping */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C94C63A615961F6000EC7710 /* Build configuration list for PBXNativeTarget "RWMapping" */;
+			buildPhases = (
+				C94C638415961F5F00EC7710 /* Sources */,
+				C94C638515961F5F00EC7710 /* Frameworks */,
+				C94C638615961F5F00EC7710 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RWMapping;
+			productName = RWMapping;
+			productReference = C94C638815961F5F00EC7710 /* RWMapping.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C94C637F15961F5F00EC7710 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = RW;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Ray Wenderlich";
+			};
+			buildConfigurationList = C94C638215961F5F00EC7710 /* Build configuration list for PBXProject "RWMapping" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C94C637D15961F5F00EC7710;
+			productRefGroup = C94C638915961F5F00EC7710 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C94C638715961F5F00EC7710 /* RWMapping */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C94C638615961F5F00EC7710 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C94C639715961F5F00EC7710 /* InfoPlist.strings in Resources */,
+				C94C63A015961F6000EC7710 /* MainStoryboard.storyboard in Resources */,
+				C9066CF715965D3D00379283 /* victoria_line.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C94C638415961F5F00EC7710 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C94C639915961F6000EC7710 /* main.m in Sources */,
+				C94C639D15961F6000EC7710 /* RWAppDelegate.m in Sources */,
+				C94C63A315961F6000EC7710 /* RWViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C94C639515961F5F00EC7710 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C94C639615961F5F00EC7710 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C94C639E15961F6000EC7710 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C94C639F15961F6000EC7710 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C94C63A415961F6000EC7710 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C94C63A515961F6000EC7710 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C94C63A715961F6000EC7710 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RWMapping/RWMapping-Prefix.pch";
+				INFOPLIST_FILE = "RWMapping/RWMapping-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C94C63A815961F6000EC7710 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RWMapping/RWMapping-Prefix.pch";
+				INFOPLIST_FILE = "RWMapping/RWMapping-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C94C638215961F5F00EC7710 /* Build configuration list for PBXProject "RWMapping" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C94C63A415961F6000EC7710 /* Debug */,
+				C94C63A515961F6000EC7710 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C94C63A615961F6000EC7710 /* Build configuration list for PBXNativeTarget "RWMapping" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C94C63A715961F6000EC7710 /* Debug */,
+				C94C63A815961F6000EC7710 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C94C637F15961F5F00EC7710 /* Project object */;
+}

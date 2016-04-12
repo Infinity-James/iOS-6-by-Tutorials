@@ -1,0 +1,52 @@
+get's guilds characters: 
+
+http://us.battle.net/api/wow/guild/Medivh/Knights%20of%20the%20Silver%20Hand?fields=members
+
+
+get character's items: 
+
+	http://us.battle.net/api/wow/character/borean-tundra/Hagrel?fields=items
+
+	{"lastModified":1327295657000,"name":"Hagrel","realm":"Borean Tundra","battlegroup":"Emberstorm","class":1,"race":1,"gender":0,"level":85,"achievementPoints":3130,"thumbnail":"borean-tundra/171/40508075-avatar.jpg","items":{"averageItemLevel":379,"averageItemLevelEquipped":379,"head":{"id":75126,"name":"Vicious Pyrium Helm","icon":"inv_helmet_plate_dungeonplage_c_04","quality":3,"tooltipParams":{}},"neck":{"id":71212,"name":"Stoneheart Choker","icon":"inv_misc_necklace_firelands_1","quality":4,"tooltipParams":{}},"shoulder":{"id":72821,"name":"Temporal Pauldrons","icon":"inv_shoulder_plate_dungeonplate_c_06","quality":4,"tooltipParams":{"gem0":52219}},"back":{"id":72838,"name":"Cloak of the Royal Protector","icon":"inv_cape_430dungeon_c_04","quality":4,"tooltipParams":{}},"chest":{"id":72464,"name":"Ruthless Gladiator's Plate Chestpiece","icon":"inv_chest_plate_pvpwarrior_c_02","quality":4,"tooltipParams":{"set":[72464]}},"shirt":{"id":4336,"name":"Black Swashbuckler's Shirt","icon":"inv_shirt_black_01","quality":1,"tooltipParams":{}},"tabard":{"id":65908,"name":"Tabard of the Wildhammer Clan","icon":"inv_misc_tabard_wildhammerclan","quality":1,"tooltipParams":{}},"wrist":{"id":75124,"name":"Vicious Pyrium Bracers","icon":"inv_bracer_plate_dungeonplate_c_04","quality":3,"tooltipParams":{"enchant":4089,"extraSocket":true}},"hands":{"id":72872,"name":"Time Strand Gauntlets","icon":"inv_glove_plate_dungeonplate_c_06","quality":4,"tooltipParams":{"gem0":52206,"gem1":52206,"extraSocket":true}},"waist":{"id":72832,"name":"Girdle of the Queen's Champion","icon":"inv_belt_plate_dungeonplate_c_06","quality":4,"tooltipParams":{"gem0":52231}},"legs":{"id":72815,"name":"Bloodhoof Legguards","icon":"inv_pants_plate_dungeonplate_c_06","quality":4,"tooltipParams":{}},"feet":{"id":72881,"name":"Treads of the Past","icon":"inv_boots_plate_dungeonplate_c_06","quality":4,"tooltipParams":{}},"finger1":{"id":72886,"name":"Thrall's Gratitude","icon":"inv_misc_ring_generic_4","quality":4,"tooltipParams":{}},"finger2":{"id":78497,"name":"Breathstealer Band","icon":"inv_jewelry_ring_97","quality":4,"tooltipParams":{}},"trinket1":{"id":72901,"name":"Rosary of Light","icon":"inv_jewelry_necklace_03","quality":4,"tooltipParams":{}},"trinket2":{"id":77982,"name":"Bone-Link Fetish","icon":"inv_misc_coin_12","quality":4,"tooltipParams":{}},"mainHand":{"id":72814,"name":"Axe of the Tauren Chieftains","icon":"inv_axe_2h_430future_c_01","quality":4,"tooltipParams":{}},"ranged":{"id":72876,"name":"Ironfeather Longbow","icon":"inv_1h_430nightelf_c_01","quality":4,"tooltipParams":{}}}}
+
+races 
+
+	{"races":[{"id":1,"mask":1,"side":"alliance","name":"Human"},{"id":5,"mask":16,"side":"horde","name":"Undead"},{"id":11,"mask":1024,"side":"alliance","name":"Draenei"},{"id":7,"mask":64,"side":"alliance","name":"Gnome"},{"id":8,"mask":128,"side":"horde","name":"Troll"},{"id":4,"mask":8,"side":"alliance","name":"Night Elf"},{"id":2,"mask":2,"side":"horde","name":"Orc"},{"id":3,"mask":4,"side":"alliance","name":"Dwarf"},{"id":10,"mask":512,"side":"horde","name":"Blood Elf"},{"id":22,"mask":2097152,"side":"alliance","name":"Worgen"},{"id":6,"mask":32,"side":"horde","name":"Tauren"},{"id":9,"mask":256,"side":"horde","name":"Goblin"}]}
+
+classes 
+
+	{"classes":[{"id":3,"mask":4,"powerType":"focus","name":"Hunter"},{"id":4,"mask":8,"powerType":"energy","name":"Rogue"},{"id":1,"mask":1,"powerType":"rage","name":"Warrior"},{"id":2,"mask":2,"powerType":"mana","name":"Paladin"},{"id":7,"mask":64,"powerType":"mana","name":"Shaman"},{"id":8,"mask":128,"powerType":"mana","name":"Mage"},{"id":5,"mask":16,"powerType":"mana","name":"Priest"},{"id":6,"mask":32,"powerType":"runic-power","name":"Death Knight"},{"id":11,"mask":1024,"powerType":"mana","name":"Druid"},{"id":9,"mask":256,"powerType":"mana","name":"Warlock"}]}
+
+item classes: 
+
+	{"classes":[{"class":0,"name":"Consumable"},{"class":1,"name":"Container"},{"class":2,"name":"Weapon"},{"class":3,"name":"Gem"},{"class":4,"name":"Armor"},{"class":5,"name":"Reagent"},{"class":6,"name":"Projectile"},{"class":7,"name":"Trade Goods"},{"class":9,"name":"Recipe"},{"class":11,"name":"Quiver"},{"class":12,"name":"Quest"},{"class":13,"name":"Key"},{"class":15,"name":"Miscellaneous"},{"class":16,"name":"Glyph"}]}
+
+character thumbnail
+
+
+large character image: http://us.battle.net/static-render/us/borean-tundra/171/40508075-profilemain.jpg
+
+
+
+It is the right way to do it.
+
+http:// <region> + .battle.net/static-render/ + <region> + / + <the string you got from API as thumbnail>
+
+item thumbnail? 
+
+item icon
+
+
+
+small http://us.media.blizzard.com/wow/icons/18/inv_shoulder_robe_pvppriest_c_01.jpg
+medium http://us.media.blizzard.com/wow/icons/36/inv_shoulder_robe_pvppriest_c_01.jpg
+large http://us.media.blizzard.com/wow/icons/56/inv_shoulder_robe_pvppriest_c_01.jpg
+x-larget? http://us.media.blizzard.com/wow/icons/36/inv_shoulder_robe_pvppriest_c_01.jpg
+
+
+http://us.media.blizzard.com/wow/icons/56/inv_axe_2h_430future_c_01.jpg
+
+
+
+http://us.battle.net/api/wow/character/borean-tundra/Hagrel?fields=items,talents
+

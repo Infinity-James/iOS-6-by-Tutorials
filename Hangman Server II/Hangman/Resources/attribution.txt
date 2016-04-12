@@ -1,0 +1,15 @@
+Art
+- - - - -
+
+All art by Vicki Wenderlich (http://www.vickiwenderlich.com) and released under Creative Commons Attribution.
+
+Sounds
+- - - - -
+
+robotCorrect.wav: By Mariane Gagnon.  http://soundbible.com/1682-Robot-Blip.html
+robotIncorrect.wav: By Mike Koenig.  http://soundbible.com/1308-Fizzle.html
+robotWin.wav: By Smoothie.  http://soundbible.com/1425-Small-Servo-Motor-.html
+robotLose.wav: By Mike Koenig.  http://soundbible.com/1276-Robot-Computing.html
+zombieLose.wav: By gcmax.  http://www.freesound.org/people/gcmax/sounds/86808/
+
+All other sounds by Ray Wenderlich (http://www.raywenderlich.com) and released under Creative Commons Attribution.

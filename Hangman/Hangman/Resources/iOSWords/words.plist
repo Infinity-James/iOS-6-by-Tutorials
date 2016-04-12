@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>name</key>
+    <string>iOS Words</string>
+    <key>words</key>
+    <array>
+        <string>protocol</string>
+        <string>interface</string>
+        <string>xcode</string>
+        <string>property</string>
+        <string>class</string>
+        <string>delegate</string>
+        <string>method</string>
+        <string>iphone</string>
+        <string>ipad</string>
+        <string>simulator</string>
+        <string>llvm</string>
+        <string>arc</string>
+        <string>storyboard</string>
+        <string>xib</string>
+        <string>iboutlet</string>
+        <string>nsstring</string>
+        <string>nsarray</string>
+        <string>nsdictionary</string>
+        <string>sdk</string>
+        <string>provisioning</string>
+        <string>profile</string>
+    </array>
+</dict>
+</plist>

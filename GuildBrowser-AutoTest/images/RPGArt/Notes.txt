@@ -1,0 +1,16 @@
+Notes on rpg app art
+
+Toolbar: end caps 25
+
+button: end caps L: 18  R: 7
+
+Text
+
+-Toolbar & divider: Georgia size 24, 4d2e0a, 1 pt bottom shadow f1e1cb
+-Profile Title: Georgia size 18, white, 1 pt top shadow black
+-Profile other text: Verdana size 10, colors e17e0e (orange), 26a3f2 (blue), and white, each with 1 pt top shadow black.
+
+
+Detail Screen
+
+-images are meant to be 100x100 to go in the frame.

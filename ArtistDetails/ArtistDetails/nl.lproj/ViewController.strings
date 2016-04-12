@@ -1,0 +1,39 @@
+
+/* Class = "IBUILabel"; text = "Artist Name"; ObjectID = "8"; */
+"8.text" = "Arteist";
+
+/* Class = "IBUILabel"; text = "Notes:"; ObjectID = "17"; */
+"17.text" = "Opmerkingen:";
+
+/* Class = "IBUILabel"; text = "Rating:"; ObjectID = "23"; */
+"23.text" = "Waardering:";
+
+/* Class = "IBUILabel"; text = "Album:"; ObjectID = "31"; */
+"31.text" = "Album:";
+
+/* Class = "IBUILabel"; text = "Release Year:"; ObjectID = "32"; */
+"32.text" = "Jaar:";
+
+/* Class = "IBUILabel"; text = "Record Label:"; ObjectID = "48"; */
+"48.text" = "Maatschappij:";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "138"; */
+"138.normalTitle" = "Verwijder";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "141"; */
+"141.normalTitle" = "Volgende";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "147"; */
+"147.normalTitle" = "Annuleer";
+
+/* Class = "IBUILabel"; text = "Album name goes here."; ObjectID = "424"; */
+"424.text" = "Album name goes here.";
+
+/* Class = "IBUILabel"; text = "Release year goes here."; ObjectID = "430"; */
+"430.text" = "Release year goes here.";
+
+/* Class = "IBUILabel"; text = "Record label goes here."; ObjectID = "437"; */
+"437.text" = "Record label goes here.";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "508"; */
+"508.normalTitle" = "Button";

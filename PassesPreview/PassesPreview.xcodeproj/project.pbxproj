@@ -1,0 +1,343 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1AEB068916B16DC100637E55 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AEB068816B16DC100637E55 /* UIKit.framework */; };
+		1AEB068B16B16DC100637E55 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AEB068A16B16DC100637E55 /* Foundation.framework */; };
+		1AEB068D16B16DC100637E55 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AEB068C16B16DC100637E55 /* CoreGraphics.framework */; };
+		1AEB069316B16DC100637E55 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB069116B16DC100637E55 /* InfoPlist.strings */; };
+		1AEB069516B16DC100637E55 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AEB069416B16DC100637E55 /* main.m */; };
+		1AEB069916B16DC100637E55 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AEB069816B16DC100637E55 /* AppDelegate.m */; };
+		1AEB069B16B16DC100637E55 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB069A16B16DC100637E55 /* Default.png */; };
+		1AEB069D16B16DC100637E55 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB069C16B16DC100637E55 /* Default@2x.png */; };
+		1AEB069F16B16DC100637E55 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB069E16B16DC100637E55 /* Default-568h@2x.png */; };
+		1AEB06A916B16E3800637E55 /* MainController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AEB06A716B16E3800637E55 /* MainController.m */; };
+		1AEB06AA16B16E3800637E55 /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB06A816B16E3800637E55 /* MainView.xib */; };
+		1AEB06AD16B16EA400637E55 /* PassKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AEB06AC16B16EA400637E55 /* PassKit.framework */; };
+		1AEB06AF16B1723D00637E55 /* PassCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB06AE16B1723D00637E55 /* PassCell.xib */; };
+		1AEB06B616B174A000637E55 /* BoardingPass.pkpass in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB06B116B174A000637E55 /* BoardingPass.pkpass */; };
+		1AEB06B716B174A000637E55 /* CardDivingMember.pkpass in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB06B216B174A000637E55 /* CardDivingMember.pkpass */; };
+		1AEB06B816B174A000637E55 /* ConcertTicket.pkpass in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB06B316B174A000637E55 /* ConcertTicket.pkpass */; };
+		1AEB06B916B174A000637E55 /* FreeHug.pkpass in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB06B416B174A000637E55 /* FreeHug.pkpass */; };
+		1AEB06BA16B174A000637E55 /* GenericPass.pkpass in Resources */ = {isa = PBXBuildFile; fileRef = 1AEB06B516B174A000637E55 /* GenericPass.pkpass */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1AEB068416B16DC100637E55 /* PassesPreview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PassesPreview.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1AEB068816B16DC100637E55 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1AEB068A16B16DC100637E55 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1AEB068C16B16DC100637E55 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1AEB069016B16DC100637E55 /* PassesPreview-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PassesPreview-Info.plist"; sourceTree = "<group>"; };
+		1AEB069216B16DC100637E55 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1AEB069416B16DC100637E55 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1AEB069616B16DC100637E55 /* PassesPreview-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PassesPreview-Prefix.pch"; sourceTree = "<group>"; };
+		1AEB069716B16DC100637E55 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		1AEB069816B16DC100637E55 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		1AEB069A16B16DC100637E55 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		1AEB069C16B16DC100637E55 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		1AEB069E16B16DC100637E55 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		1AEB06A616B16E3800637E55 /* MainController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainController.h; sourceTree = "<group>"; };
+		1AEB06A716B16E3800637E55 /* MainController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainController.m; sourceTree = "<group>"; };
+		1AEB06A816B16E3800637E55 /* MainView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainView.xib; sourceTree = "<group>"; };
+		1AEB06AC16B16EA400637E55 /* PassKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PassKit.framework; path = System/Library/Frameworks/PassKit.framework; sourceTree = SDKROOT; };
+		1AEB06AE16B1723D00637E55 /* PassCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PassCell.xib; sourceTree = "<group>"; };
+		1AEB06B116B174A000637E55 /* BoardingPass.pkpass */ = {isa = PBXFileReference; lastKnownFileType = file; path = BoardingPass.pkpass; sourceTree = "<group>"; };
+		1AEB06B216B174A000637E55 /* CardDivingMember.pkpass */ = {isa = PBXFileReference; lastKnownFileType = file; path = CardDivingMember.pkpass; sourceTree = "<group>"; };
+		1AEB06B316B174A000637E55 /* ConcertTicket.pkpass */ = {isa = PBXFileReference; lastKnownFileType = file; path = ConcertTicket.pkpass; sourceTree = "<group>"; };
+		1AEB06B416B174A000637E55 /* FreeHug.pkpass */ = {isa = PBXFileReference; lastKnownFileType = file; path = FreeHug.pkpass; sourceTree = "<group>"; };
+		1AEB06B516B174A000637E55 /* GenericPass.pkpass */ = {isa = PBXFileReference; lastKnownFileType = file; path = GenericPass.pkpass; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1AEB068116B16DC100637E55 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AEB06AD16B16EA400637E55 /* PassKit.framework in Frameworks */,
+				1AEB068916B16DC100637E55 /* UIKit.framework in Frameworks */,
+				1AEB068B16B16DC100637E55 /* Foundation.framework in Frameworks */,
+				1AEB068D16B16DC100637E55 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1AEB067916B16DC100637E55 = {
+			isa = PBXGroup;
+			children = (
+				1AEB068E16B16DC100637E55 /* PassesPreview */,
+				1AEB068716B16DC100637E55 /* Frameworks */,
+				1AEB068516B16DC100637E55 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1AEB068516B16DC100637E55 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB068416B16DC100637E55 /* PassesPreview.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1AEB068716B16DC100637E55 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB06AC16B16EA400637E55 /* PassKit.framework */,
+				1AEB068816B16DC100637E55 /* UIKit.framework */,
+				1AEB068A16B16DC100637E55 /* Foundation.framework */,
+				1AEB068C16B16DC100637E55 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1AEB068E16B16DC100637E55 /* PassesPreview */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB06B016B1742700637E55 /* Passes */,
+				1AEB06AB16B16E5000637E55 /* Main MVC */,
+				1AEB06A516B16DCF00637E55 /* App Delegate */,
+				1AEB068F16B16DC100637E55 /* Supporting Files */,
+			);
+			path = PassesPreview;
+			sourceTree = "<group>";
+		};
+		1AEB068F16B16DC100637E55 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB069016B16DC100637E55 /* PassesPreview-Info.plist */,
+				1AEB069116B16DC100637E55 /* InfoPlist.strings */,
+				1AEB069416B16DC100637E55 /* main.m */,
+				1AEB069616B16DC100637E55 /* PassesPreview-Prefix.pch */,
+				1AEB069A16B16DC100637E55 /* Default.png */,
+				1AEB069C16B16DC100637E55 /* Default@2x.png */,
+				1AEB069E16B16DC100637E55 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1AEB06A516B16DCF00637E55 /* App Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB069716B16DC100637E55 /* AppDelegate.h */,
+				1AEB069816B16DC100637E55 /* AppDelegate.m */,
+			);
+			name = "App Delegate";
+			sourceTree = "<group>";
+		};
+		1AEB06AB16B16E5000637E55 /* Main MVC */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB06A616B16E3800637E55 /* MainController.h */,
+				1AEB06A716B16E3800637E55 /* MainController.m */,
+				1AEB06A816B16E3800637E55 /* MainView.xib */,
+				1AEB06AE16B1723D00637E55 /* PassCell.xib */,
+			);
+			name = "Main MVC";
+			sourceTree = "<group>";
+		};
+		1AEB06B016B1742700637E55 /* Passes */ = {
+			isa = PBXGroup;
+			children = (
+				1AEB06B116B174A000637E55 /* BoardingPass.pkpass */,
+				1AEB06B216B174A000637E55 /* CardDivingMember.pkpass */,
+				1AEB06B316B174A000637E55 /* ConcertTicket.pkpass */,
+				1AEB06B416B174A000637E55 /* FreeHug.pkpass */,
+				1AEB06B516B174A000637E55 /* GenericPass.pkpass */,
+			);
+			path = Passes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1AEB068316B16DC100637E55 /* PassesPreview */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1AEB06A216B16DC100637E55 /* Build configuration list for PBXNativeTarget "PassesPreview" */;
+			buildPhases = (
+				1AEB068016B16DC100637E55 /* Sources */,
+				1AEB068116B16DC100637E55 /* Frameworks */,
+				1AEB068216B16DC100637E55 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PassesPreview;
+			productName = PassesPreview;
+			productReference = 1AEB068416B16DC100637E55 /* PassesPreview.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1AEB067B16B16DC100637E55 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "&Beyond";
+			};
+			buildConfigurationList = 1AEB067E16B16DC100637E55 /* Build configuration list for PBXProject "PassesPreview" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1AEB067916B16DC100637E55;
+			productRefGroup = 1AEB068516B16DC100637E55 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1AEB068316B16DC100637E55 /* PassesPreview */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1AEB068216B16DC100637E55 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AEB069316B16DC100637E55 /* InfoPlist.strings in Resources */,
+				1AEB069B16B16DC100637E55 /* Default.png in Resources */,
+				1AEB069D16B16DC100637E55 /* Default@2x.png in Resources */,
+				1AEB069F16B16DC100637E55 /* Default-568h@2x.png in Resources */,
+				1AEB06AA16B16E3800637E55 /* MainView.xib in Resources */,
+				1AEB06AF16B1723D00637E55 /* PassCell.xib in Resources */,
+				1AEB06B616B174A000637E55 /* BoardingPass.pkpass in Resources */,
+				1AEB06B716B174A000637E55 /* CardDivingMember.pkpass in Resources */,
+				1AEB06B816B174A000637E55 /* ConcertTicket.pkpass in Resources */,
+				1AEB06B916B174A000637E55 /* FreeHug.pkpass in Resources */,
+				1AEB06BA16B174A000637E55 /* GenericPass.pkpass in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1AEB068016B16DC100637E55 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1AEB069516B16DC100637E55 /* main.m in Sources */,
+				1AEB069916B16DC100637E55 /* AppDelegate.m in Sources */,
+				1AEB06A916B16E3800637E55 /* MainController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1AEB069116B16DC100637E55 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1AEB069216B16DC100637E55 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1AEB06A016B16DC100637E55 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1AEB06A116B16DC100637E55 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1AEB06A316B16DC100637E55 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PassesPreview/PassesPreview-Prefix.pch";
+				INFOPLIST_FILE = "PassesPreview/PassesPreview-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1AEB06A416B16DC100637E55 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "PassesPreview/PassesPreview-Prefix.pch";
+				INFOPLIST_FILE = "PassesPreview/PassesPreview-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1AEB067E16B16DC100637E55 /* Build configuration list for PBXProject "PassesPreview" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AEB06A016B16DC100637E55 /* Debug */,
+				1AEB06A116B16DC100637E55 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1AEB06A216B16DC100637E55 /* Build configuration list for PBXNativeTarget "PassesPreview" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1AEB06A316B16DC100637E55 /* Debug */,
+				1AEB06A416B16DC100637E55 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1AEB067B16B16DC100637E55 /* Project object */;
+}

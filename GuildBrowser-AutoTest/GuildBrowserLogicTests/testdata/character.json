@@ -1,0 +1,252 @@
+{
+    "thumbnail": "borean-tundra/171/40508075-avatar.jpg",
+    "class": 1,
+    "items": {
+        "neck": {
+            "icon": "inv_misc_necklace_firelands_1",
+            "tooltipParams": {
+
+            },
+            "name": "Stoneheart Choker",
+            "id": 71212,
+            "quality": 4
+        },
+        "averageItemLevelEquipped": 355,
+        "wrist": {
+            "icon": "inv_bracer_plate_dungeonplate_c_04",
+            "tooltipParams": {
+                "extraSocket": true,
+                "enchant": 4089
+            },
+            "name": "Vicious Pyrium Bracers",
+            "id": 75124,
+            "quality": 3
+        },
+        "waist": {
+            "icon": "inv_belt_plate_dungeonplate_c_06",
+            "tooltipParams": {
+                "gem0": 52231
+            },
+            "name": "Girdle of the Queen's Champion",
+            "id": 72832,
+            "quality": 4
+        },
+        "hands": {
+            "icon": "inv_glove_plate_dungeonplate_c_06",
+            "tooltipParams": {
+                "gem0": 52206,
+                "gem1": 52206,
+                "extraSocket": true
+            },
+            "name": "Time Strand Gauntlets",
+            "id": 72872,
+            "quality": 4
+        },
+        "shoulder": {
+            "icon": "inv_shoulder_plate_dungeonplate_c_06",
+            "tooltipParams": {
+                "gem0": 52219
+            },
+            "name": "Temporal Pauldrons",
+            "id": 72821,
+            "quality": 4
+        },
+        "chest": {
+            "icon": "inv_chest_plate_pvpwarrior_c_02",
+            "tooltipParams": {
+                "set": [
+                    72464
+                ]
+            },
+            "name": "Ruthless Gladiator's Plate Chestpiece",
+            "id": 72464,
+            "quality": 4
+        },
+        "finger1": {
+            "icon": "inv_misc_ring_generic_4",
+            "tooltipParams": {
+
+            },
+            "name": "Thrall's Gratitude",
+            "id": 72886,
+            "quality": 4
+        },
+        "finger2": {
+            "icon": "inv_jewelry_ring_97",
+            "tooltipParams": {
+
+            },
+            "name": "Breathstealer Band",
+            "id": 78497,
+            "quality": 4
+        },
+        "shirt": {
+            "icon": "inv_shirt_black_01",
+            "tooltipParams": {
+
+            },
+            "name": "Black Swashbuckler's Shirt",
+            "id": 4336,
+            "quality": 1
+        },
+        "tabard": {
+            "icon": "inv_misc_tabard_wildhammerclan",
+            "tooltipParams": {
+
+            },
+            "name": "Tabard of the Wildhammer Clan",
+            "id": 65908,
+            "quality": 1
+        },
+        "trinket1": {
+            "icon": "inv_jewelry_necklace_03",
+            "tooltipParams": {
+
+            },
+            "name": "Rosary of Light",
+            "id": 72901,
+            "quality": 4
+        },
+        "averageItemLevel": 379,
+        "head": {
+            "icon": "inv_helmet_plate_dungeonplage_c_04",
+            "tooltipParams": {
+
+            },
+            "name": "Vicious Pyrium Helm",
+            "id": 75126,
+            "quality": 3
+        },
+        "back": {
+            "icon": "inv_cape_430dungeon_c_04",
+            "tooltipParams": {
+
+            },
+            "name": "Cloak of the Royal Protector",
+            "id": 72838,
+            "quality": 4
+        },
+        "legs": {
+            "icon": "inv_pants_plate_dungeonplate_c_06",
+            "tooltipParams": {
+
+            },
+            "name": "Bloodhoof Legguards",
+            "id": 72815,
+            "quality": 4
+        },
+        "feet": {
+            "icon": "inv_boots_plate_dungeonplate_c_06",
+            "tooltipParams": {
+
+            },
+            "name": "Treads of the Past",
+            "id": 72881,
+            "quality": 4
+        },
+        "mainHand": {
+            "icon": "inv_axe_2h_430future_c_01",
+            "tooltipParams": {
+
+            },
+            "name": "Axe of the Tauren Chieftains",
+            "id": 72814,
+            "quality": 4
+        },
+        "trinket2": {
+            "icon": "inv_misc_coin_12",
+            "tooltipParams": {
+
+            },
+            "name": "Bone-Link Fetish",
+            "id": 77982,
+            "quality": 4
+        },
+        "ranged": {
+            "icon": "inv_1h_430nightelf_c_01",
+            "tooltipParams": {
+
+            },
+            "name": "Ironfeather Longbow",
+            "id": 72876,
+            "quality": 4
+        }
+    },
+    "lastModified": 1341842164000,
+    "race": 1,
+    "name": "Hagrel",
+    "battlegroup": "Emberstorm",
+    "realm": "Borean Tundra",
+    "achievementPoints": 3130,
+    "gender": 0,
+    "level": 85,
+    "guild": {
+        "emblem": {
+            "icon": 132,
+            "backgroundColor": "ff9b00a6",
+            "iconColor": "ffb1b8b1",
+            "border": 1,
+            "borderColor": "ffffffff"
+        },
+        "name": "Dream Catchers",
+        "battlegroup": "Emberstorm",
+        "realm": "Borean Tundra",
+        "members": 499,
+        "achievementPoints": 1685,
+        "level": 25
+    },
+    "stats": {
+        "mainHandDmgMin": 5511,
+        "spr": 64,
+        "int": 37,
+        "hasteRating": 444,
+        "mastery": 10.906068,
+        "parryRating": 1638,
+        "mainHandDmgMax": 6711,
+        "health": 134893,
+        "dodge": 6.333738,
+        "spellPower": 27,
+        "mana5Combat": 0,
+        "resil": 723,
+        "sta": 6562,
+        "offHandSpeed": 1.933,
+        "expertiseRating": 1152,
+        "offHandExpertise": 38,
+        "rangedHitPercent": 9.166689,
+        "offHandDmgMin": 772,
+        "offHandDps": 399.49008,
+        "spellHitRating": 1101,
+        "str": 5284,
+        "spellPen": 0,
+        "agi": 123,
+        "powerType": "rage",
+        "mainHandSpeed": 3.479,
+        "offHandDmgMax": 773,
+        "spellHitPercent": 10.747152,
+        "crit": 5.753697,
+        "dodgeRating": 230,
+        "rangedDmgMin": 1551,
+        "power": 100,
+        "spellCritRating": 941,
+        "hitRating": 1101,
+        "rangedHitRating": 1101,
+        "armor": 21636,
+        "parry": 13.447617,
+        "mana5": 0,
+        "rangedDps": 784.4228000000001,
+        "rangedDmgMax": 2847,
+        "spellCrit": 5.248772,
+        "blockRating": 0,
+        "critRating": 941,
+        "mainHandDps": 1756.5757,
+        "rangedSpeed": 2.803,
+        "rangedCrit": 5.753697,
+        "masteryRating": 521,
+        "mainHandExpertise": 38,
+        "rangedCritRating": 941,
+        "attackPower": 10803,
+        "hitPercent": 9.166689,
+        "block": 5,
+        "rangedAttackPower": 198
+    }
+}
